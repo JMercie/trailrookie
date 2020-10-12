@@ -1,0 +1,4 @@
+baseURL = "http://trailrookie.org/"
+languageCode = "en-us"
+title = "Trailrookie Blog"
+theme = "mediumish-gohugo-theme"

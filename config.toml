@@ -1,4 +1,4 @@
-baseURL = "http://trailrookie.org/"
+baseURL = "https://jolly-cori-7e34ef.netlify.app/"
 languageCode = "en-us"
 title = "Trailrookie Blog"
 theme = "mediumish-gohugo-theme"

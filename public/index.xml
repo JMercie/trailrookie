@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Trailrookie Blog</title>
+    <link>http://trailrookie.org/</link>
+    <description>Recent content on Trailrookie Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joseph Mercie &amp; Matias Pallares- All rights reserved</copyright>
+    <lastBuildDate>Mon, 12 Oct 2020 20:01:28 -0300</lastBuildDate><atom:link href="http://trailrookie.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salesforce: Datos, gráficos e historias - Tableau y Einstein Analytics</title>
+      <link>http://trailrookie.org/blog/my-forth-post/</link>
+      <pubDate>Mon, 12 Oct 2020 20:01:28 -0300</pubDate>
+      
+      <guid>http://trailrookie.org/blog/my-forth-post/</guid>
+      <description>En junio del 2019, salesforce compró definitivamente Tableau, el líder en software de Business Intelligence (BI), en la adquisición más grande de la historia de la empresa líder en crm, pero recientemente pudimos ver los cambios que se desencadenaron por esta adquisición.</description>
+    </item>
+    
+    <item>
+      <title>Certificate! - ¿Cómo y para que?</title>
+      <link>http://trailrookie.org/blog/my-third-post/</link>
+      <pubDate>Mon, 12 Oct 2020 19:52:39 -0300</pubDate>
+      
+      <guid>http://trailrookie.org/blog/my-third-post/</guid>
+      <description>Hemos hablado mucho de trailhead en nuestros primeros artículos, y la verdad es porque es una plataforma grandiosa para aprender y también con su sistema de puntos y medallas, una excelente manera de demostrar tus conocimientos.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué carrera de Salesforce es la ideal para mi perfil? Descubre tu carrera ideal en la nube.</title>
+      <link>http://trailrookie.org/blog/my-second-post/</link>
+      <pubDate>Mon, 12 Oct 2020 19:15:52 -0300</pubDate>
+      
+      <guid>http://trailrookie.org/blog/my-second-post/</guid>
+      <description>En nuestro primer artículo te mencionamos algunos de los productos de salesforce y su plataforma de aprendizaje (Trailhead). Seguramente entraste y te topaste con miles de módulos que cualquiera a la primera ve eso y solo dice.</description>
+    </item>
+    
+    <item>
+      <title>Tantas opciones. Por donde empiezo?</title>
+      <link>http://trailrookie.org/blog/my-first-post/</link>
+      <pubDate>Mon, 12 Oct 2020 16:14:39 -0300</pubDate>
+      
+      <guid>http://trailrookie.org/blog/my-first-post/</guid>
+      <description>Hoy en día, no solo en el país, si no en el mundo, es una tendencia creciente que más y más personas busquen iniciar una carrera en tecnología, no solo por pasión, sino también por ser un sector mejor pagado y más flexible que algunos otros.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://trailrookie.org/static/contact/</link>
+      <pubDate>Sun, 07 Oct 2018 11:12:00 +0200</pubDate>
+      
+      <guid>http://trailrookie.org/static/contact/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean semper libero quis dictum dapibus. Nulla egestas vitae augue eu rutrum. Duis ullamcorper dictum ipsum. Interdum et malesuada fames ac ante ipsum primis in faucibus.</description>
+    </item>
+    
+  </channel>
+</rss>

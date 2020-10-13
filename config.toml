@@ -4,13 +4,13 @@ title = "Trailrookie Blog"
 theme = "mediumish-gohugo-theme"
 enableEmoji = true
 summaryLength = 25
-copyright = "Joseph Mercie - All rights reserved"
+copyright = "Joseph Mercie & Matias Pallares- All rights reserved"
 #disqusShortname = "shortDisquis"
 #googleAnalytics = "UA-1XXXXXXX1-X"
 
 [params]
-    logo = "/images/icon.png"
-    description = "the clean blog!"
+    logo = "/images/logo.png"
+    description = "For fans by fans!"
     #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
@@ -40,9 +40,9 @@ copyright = "Joseph Mercie - All rights reserved"
     url = "/blog"
 [[menu.main]]
     name = "Contact"
-    weight = 100
-    identifier = "separate"
-    url = "/separate"
+    identifier = "contact"
+    weight = 200
+    url = "/static/contact"
 [[menu.main]]
     name = "About Us"
     identifier = "about"

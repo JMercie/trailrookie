@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tableau on Trailrookie Blog</title>
+    <link>http://trailrookie.org/tags/tableau/</link>
+    <description>Recent content in tableau on Trailrookie Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Joseph Mercie &amp; Matias Pallares- All rights reserved</copyright>
+    <lastBuildDate>Mon, 12 Oct 2020 20:01:28 -0300</lastBuildDate><atom:link href="http://trailrookie.org/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salesforce: Datos, gráficos e historias - Tableau y Einstein Analytics</title>
+      <link>http://trailrookie.org/blog/my-forth-post/</link>
+      <pubDate>Mon, 12 Oct 2020 20:01:28 -0300</pubDate>
+      
+      <guid>http://trailrookie.org/blog/my-forth-post/</guid>
+      <description>En junio del 2019, salesforce compró definitivamente Tableau, el líder en software de Business Intelligence (BI), en la adquisición más grande de la historia de la empresa líder en crm, pero recientemente pudimos ver los cambios que se desencadenaron por esta adquisición.</description>
+    </item>
+    
+  </channel>
+</rss>

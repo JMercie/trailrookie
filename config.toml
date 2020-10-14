@@ -14,9 +14,9 @@ copyright = "Joseph Mercie & Matias Pallares- All rights reserved"
     #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-    name = "Joseph Mercie"
+    name = "Joseph Mercie & Matias Pallares"
     thumbnail = "/images/author.png"
-    description = "Creator of this blog."
+    description = "Creators of this blog."
 
 [params.index]
     picture = "/images/author.png"

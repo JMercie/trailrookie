@@ -75,8 +75,8 @@ disqusShortname = "trailrookie"
         weight = -90
         pre = "user"
     [[menu.main]]
-        identifier = "share your ideas"
-        name = "share_your_ideas"
+        identifier = "share_your_ideas"
+        name = "share your ideas"
         url = "share_your_ideas"
         weight = -90
         pre = "user"

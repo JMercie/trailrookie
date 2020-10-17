@@ -69,6 +69,18 @@ disqusShortname = "trailrookie"
         weight = -90
         pre = "user"
     [[menu.main]]
+        identifier = "contact"
+        name = "contact"
+        url = "contact"
+        weight = -90
+        pre = "contact"
+    [[menu.main]]
+        identifier = "share your ideas"
+        name = "share_your_ideas"
+        url = "share_your_ideas"
+        weight = -90
+        pre = "share_your_ideas"
+    [[menu.main]]
         identifier = "archives"
         name = "Archives"
         url = "archives"

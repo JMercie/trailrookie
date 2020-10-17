@@ -21,4 +21,4 @@ Nos encantaría que todos aquellos que quieran compartir sus ideas sobre Salesfo
 - El contenido debe ser propio, en caso de usar contenido de alguien más debes hacerlo con su consentimiento, dar los créditos pertinentes y hacer "Fair Use" de su contenido no siendo una copia exacta del mismo.
 - Debe ser en español
 
-Desde ya **agradecemos todas** las solicitudes y por apoyar el crecimiento de esta comunidad!
+Desde ya **agradecemos todas** las solicitudes y por apoyar el crecimiento de esta comunidad!  

@@ -13,4 +13,4 @@ Darnos tu feedback y tirar buenas ~~malas~~ críticas?
 
 Te dejamos nuestros contactos aquí:
 
-### 📨 trailrookie@gmail.com
+### 📨 contact@trailrookie.com  

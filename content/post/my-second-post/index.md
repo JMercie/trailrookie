@@ -5,7 +5,7 @@ draft: false
 tags: ["post", "principiante", "general", "carrera"]
 type: "post"
 image: "secondpost_cover.jpg"
-comments: true
+comment: true
 categories: ["Developer"]
 ---
 

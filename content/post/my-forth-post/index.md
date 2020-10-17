@@ -5,7 +5,7 @@ draft: false
 tags: ["post", "intermedio", "tableau", "einstein", "data science"]
 type: "post"
 image: "fourth_cover.png"
-comments: true
+comment: true
 categories: ["Admin"]
 ---
 

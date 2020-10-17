@@ -5,7 +5,7 @@ draft: false
 tags: ["post", "general", "carrera", "certificacion"]
 type: "post"
 image: "thirdpost_cover.png"
-comments: true
+comment: true
 categories: ["Consultant"]
 ---
 Hemos hablado mucho de trailhead en nuestros primeros artículos, y la verdad es porque es una plataforma grandiosa para aprender y también con su sistema de puntos y medallas, una excelente manera de demostrar tus conocimientos.

@@ -5,7 +5,7 @@ draft: false
 tags: ["post", "principiante", "general", "trailhead"]
 type: "post"
 image: "firstpost_cover.png"
-comments: true
+comment: true
 categories: ["Admin"]
 ---
 

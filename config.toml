@@ -23,7 +23,6 @@ disqusShortname = "trailrookie"
         
     [params.sidebar]
         emoji = "☁️"
-        avatar = "resources/_gen/icon_hub7a2cc6c8db7f1aa4ba529c036beac14_25827_300x300_resize_box_2.png"
         subtitle = "Everything Salesforce for fans by fans"
         
     [params.article]

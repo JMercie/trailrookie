@@ -1,7 +1,7 @@
 ---
 title: "¿Qué carrera de Salesforce es la ideal para mi perfil? Descubre tu carrera ideal en la nube."
 date: 2020-10-12T19:15:52-03:00
-draft: true
+draft: false
 tags: ["post", "principiante", "general", "carrera"]
 type: "post"
 image: "secondpost_cover.jpg"

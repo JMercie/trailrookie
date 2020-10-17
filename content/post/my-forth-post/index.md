@@ -1,7 +1,7 @@
 ---
 title: "Salesforce: Datos, gráficos e historias - Tableau y Einstein Analytics"
 date: 2020-10-12T20:01:28-03:00
-draft: true
+draft: false
 tags: ["post", "intermedio", "tableau", "einstein", "data science"]
 type: "post"
 image: "fourth_cover.png"

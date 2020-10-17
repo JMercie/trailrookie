@@ -1,7 +1,7 @@
 ---
 title: "Tantas opciones. Por donde empiezo?"
 date: 2020-10-12T16:14:39-03:00
-draft: true
+draft: false
 tags: ["post", "principiante", "general", "trailhead"]
 type: "post"
 image: "firstpost_cover.png"

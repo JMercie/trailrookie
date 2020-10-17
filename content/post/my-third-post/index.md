@@ -1,7 +1,7 @@
 ---
 title: "Certificate! - ¿Cómo y para que?"
 date: 2020-10-12T19:52:39-03:00
-draft: true
+draft: false
 tags: ["post", "general", "carrera", "certificacion"]
 type: "post"
 image: "thirdpost_cover.png"

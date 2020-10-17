@@ -1,7 +1,7 @@
 +++
-title = "Contact"
+title = "Share Your Ideas"
 description = "Trailrookie, el poder en comunidad"
-aliases = ["about-us", "contact"]
+aliases = ["about-us", "share_your_ideas"]
 author = "Joseph Mercie & Matias Pallares"
 license = "CC BY-NC-ND"
 +++

@@ -2,18 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>data science on Trailrookie Blog</title>
-    <link>https://jolly-cori-7e34ef.netlify.app/tags/data-science/</link>
+    <link>https://trailrookie.com/tags/data-science/</link>
     <description>Recent content in data science on Trailrookie Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Joseph Mercie &amp; Matias Pallares- All rights reserved</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 20:01:28 -0300</lastBuildDate><atom:link href="https://jolly-cori-7e34ef.netlify.app/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Oct 2020 20:01:28 -0300</lastBuildDate><atom:link href="https://trailrookie.com/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Salesforce: Datos, gráficos e historias - Tableau y Einstein Analytics</title>
-      <link>https://jolly-cori-7e34ef.netlify.app/blog/my-forth-post/</link>
+      <link>https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/</link>
       <pubDate>Mon, 12 Oct 2020 20:01:28 -0300</pubDate>
       
-      <guid>https://jolly-cori-7e34ef.netlify.app/blog/my-forth-post/</guid>
+      <guid>https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/</guid>
       <description>En junio del 2019, salesforce compró definitivamente Tableau, el líder en software de Business Intelligence (BI), en la adquisición más grande de la historia de la empresa líder en crm, pero recientemente pudimos ver los cambios que se desencadenaron por esta adquisición.</description>
     </item>
     

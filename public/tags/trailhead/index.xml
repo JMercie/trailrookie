@@ -2,18 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>trailhead on Trailrookie Blog</title>
-    <link>https://jolly-cori-7e34ef.netlify.app/tags/trailhead/</link>
+    <link>https://trailrookie.com/tags/trailhead/</link>
     <description>Recent content in trailhead on Trailrookie Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Joseph Mercie &amp; Matias Pallares- All rights reserved</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 16:14:39 -0300</lastBuildDate><atom:link href="https://jolly-cori-7e34ef.netlify.app/tags/trailhead/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://trailrookie.com/tags/trailhead/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrevista con Salesforce QA Lead Pablo Acosta</title>
+      <link>https://trailrookie.com/p/entrevista-con-salesforce-qa-lead-pablo-acosta/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://trailrookie.com/p/entrevista-con-salesforce-qa-lead-pablo-acosta/</guid>
+      <description>El viernes tuvimos la oportunidad de entrevistar a Pablo Acosta, Salesforce QA Lead en Xappia. Con solo 10 meses en la empresa y poco mas de un año en el área de QA logró convertirse en un referente para aquellas personas que recién comienzan en el área o quieren comenzar.</description>
+    </item>
+    
     <item>
       <title>Tantas opciones. Por donde empiezo?</title>
-      <link>https://jolly-cori-7e34ef.netlify.app/blog/my-first-post/</link>
+      <link>https://trailrookie.com/p/tantas-opciones.-por-donde-empiezo/</link>
       <pubDate>Mon, 12 Oct 2020 16:14:39 -0300</pubDate>
       
-      <guid>https://jolly-cori-7e34ef.netlify.app/blog/my-first-post/</guid>
+      <guid>https://trailrookie.com/p/tantas-opciones.-por-donde-empiezo/</guid>
       <description>Hoy en día, no solo en el país, si no en el mundo, es una tendencia creciente que más y más personas busquen iniciar una carrera en tecnología, no solo por pasión, sino también por ser un sector mejor pagado y más flexible que algunos otros.</description>
     </item>
     

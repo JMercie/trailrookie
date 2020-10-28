@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Trailrookie Blog</title>
+    <link>https://trailrookie.com/page/</link>
+    <description>Recent content in Pages on Trailrookie Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://trailrookie.com/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archives</title>
+      <link>https://trailrookie.com/archives/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://trailrookie.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://trailrookie.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trailrookie.com/about/</guid>
+      <description>Trailrookie es una comunidad abierta para todos, centrada y enfocada en Salesforce y su ecosistema. Nacemos de una charla de after office y un par de cervezas donde el comentario: &amp;ldquo;Notaste que hay 0 contenido de comunidad en español sobre Salesforce?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://trailrookie.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trailrookie.com/contact/</guid>
+      <description>¿Te gustaría compartir tus ideas aquí?
+¿Nos quieres contactar para sponsorship?
+Darnos tu feedback y tirar buenas malas críticas?
+Te dejamos nuestros contactos aquí:
+📨 contact@trailrookie.</description>
+    </item>
+    
+  </channel>
+</rss>

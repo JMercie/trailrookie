@@ -2,10 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Trailrookie Blog</title>
-    <link>https://jolly-cori-7e34ef.netlify.app/categories/</link>
+    <link>https://trailrookie.com/categories/</link>
     <description>Recent content in Categories on Trailrookie Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Joseph Mercie &amp; Matias Pallares- All rights reserved</copyright><atom:link href="https://jolly-cori-7e34ef.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 11:43:52 -0300</lastBuildDate><atom:link href="https://trailrookie.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Admin</title>
+      <link>https://trailrookie.com/categories/admin/</link>
+      <pubDate>Wed, 28 Oct 2020 11:43:52 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/categories/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consultant</title>
+      <link>https://trailrookie.com/categories/consultant/</link>
+      <pubDate>Wed, 28 Oct 2020 11:43:52 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/categories/consultant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developer</title>
+      <link>https://trailrookie.com/categories/developer/</link>
+      <pubDate>Wed, 28 Oct 2020 11:43:52 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/categories/developer/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

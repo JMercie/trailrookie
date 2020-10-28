@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin on Trailrookie Blog</title>
+    <link>https://trailrookie.com/categories/admin/</link>
+    <description>Recent content in Admin on Trailrookie Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2020 11:43:52 -0300</lastBuildDate><atom:link href="https://trailrookie.com/categories/admin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salesforce desde RRHH - Entrevista a Florencia Carballeria</title>
+      <link>https://trailrookie.com/p/salesforce-desde-rrhh-entrevista-a-florencia-carballeria/</link>
+      <pubDate>Wed, 28 Oct 2020 11:43:52 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/salesforce-desde-rrhh-entrevista-a-florencia-carballeria/</guid>
+      <description>Tuvimos la oportunidad de entrevistar a Florencia Carballeira, Licenciada en relaciones del trabajo(UBA) y Human Resources en Xappia hace más de 3 años. Ella se encargó de reclutar a la mayoría de los Empleados de Xappia y nos interesó hacerle algunas preguntas ya que es una de las empresas que dan primeras oportunidades en sistemas y más puntualmente en salesforce.</description>
+    </item>
+    
+    <item>
+      <title>Entrevista con Salesforce QA Lead Pablo Acosta</title>
+      <link>https://trailrookie.com/p/entrevista-con-salesforce-qa-lead-pablo-acosta/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://trailrookie.com/p/entrevista-con-salesforce-qa-lead-pablo-acosta/</guid>
+      <description>El viernes tuvimos la oportunidad de entrevistar a Pablo Acosta, Salesforce QA Lead en Xappia. Con solo 10 meses en la empresa y poco mas de un año en el área de QA logró convertirse en un referente para aquellas personas que recién comienzan en el área o quieren comenzar.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce: Datos, gráficos e historias - Tableau y Einstein Analytics</title>
+      <link>https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/</link>
+      <pubDate>Mon, 12 Oct 2020 20:01:28 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/</guid>
+      <description>En junio del 2019, salesforce compró definitivamente Tableau, el líder en software de Business Intelligence (BI), en la adquisición más grande de la historia de la empresa líder en crm, pero recientemente pudimos ver los cambios que se desencadenaron por esta adquisición.</description>
+    </item>
+    
+    <item>
+      <title>Tantas opciones. Por donde empiezo?</title>
+      <link>https://trailrookie.com/p/tantas-opciones.-por-donde-empiezo/</link>
+      <pubDate>Mon, 12 Oct 2020 16:14:39 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/tantas-opciones.-por-donde-empiezo/</guid>
+      <description>Hoy en día, no solo en el país, si no en el mundo, es una tendencia creciente que más y más personas busquen iniciar una carrera en tecnología, no solo por pasión, sino también por ser un sector mejor pagado y más flexible que algunos otros.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,27 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>carrera on Trailrookie Blog</title>
-    <link>https://jolly-cori-7e34ef.netlify.app/tags/carrera/</link>
+    <link>https://trailrookie.com/tags/carrera/</link>
     <description>Recent content in carrera on Trailrookie Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Joseph Mercie &amp; Matias Pallares- All rights reserved</copyright>
-    <lastBuildDate>Mon, 12 Oct 2020 19:52:39 -0300</lastBuildDate><atom:link href="https://jolly-cori-7e34ef.netlify.app/tags/carrera/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Oct 2020 11:43:52 -0300</lastBuildDate><atom:link href="https://trailrookie.com/tags/carrera/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Salesforce desde RRHH - Entrevista a Florencia Carballeria</title>
+      <link>https://trailrookie.com/p/salesforce-desde-rrhh-entrevista-a-florencia-carballeria/</link>
+      <pubDate>Wed, 28 Oct 2020 11:43:52 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/salesforce-desde-rrhh-entrevista-a-florencia-carballeria/</guid>
+      <description>Tuvimos la oportunidad de entrevistar a Florencia Carballeira, Licenciada en relaciones del trabajo(UBA) y Human Resources en Xappia hace más de 3 años. Ella se encargó de reclutar a la mayoría de los Empleados de Xappia y nos interesó hacerle algunas preguntas ya que es una de las empresas que dan primeras oportunidades en sistemas y más puntualmente en salesforce.</description>
+    </item>
+    
     <item>
       <title>Certificate! - ¿Cómo y para que?</title>
-      <link>https://jolly-cori-7e34ef.netlify.app/blog/my-third-post/</link>
+      <link>https://trailrookie.com/p/certificate-c%C3%B3mo-y-para-que/</link>
       <pubDate>Mon, 12 Oct 2020 19:52:39 -0300</pubDate>
       
-      <guid>https://jolly-cori-7e34ef.netlify.app/blog/my-third-post/</guid>
+      <guid>https://trailrookie.com/p/certificate-c%C3%B3mo-y-para-que/</guid>
       <description>Hemos hablado mucho de trailhead en nuestros primeros artículos, y la verdad es porque es una plataforma grandiosa para aprender y también con su sistema de puntos y medallas, una excelente manera de demostrar tus conocimientos.</description>
     </item>
     
     <item>
       <title>¿Qué carrera de Salesforce es la ideal para mi perfil? Descubre tu carrera ideal en la nube.</title>
-      <link>https://jolly-cori-7e34ef.netlify.app/blog/my-second-post/</link>
+      <link>https://trailrookie.com/p/qu%C3%A9-carrera-de-salesforce-es-la-ideal-para-mi-perfil-descubre-tu-carrera-ideal-en-la-nube./</link>
       <pubDate>Mon, 12 Oct 2020 19:15:52 -0300</pubDate>
       
-      <guid>https://jolly-cori-7e34ef.netlify.app/blog/my-second-post/</guid>
+      <guid>https://trailrookie.com/p/qu%C3%A9-carrera-de-salesforce-es-la-ideal-para-mi-perfil-descubre-tu-carrera-ideal-en-la-nube./</guid>
       <description>En nuestro primer artículo te mencionamos algunos de los productos de salesforce y su plataforma de aprendizaje (Trailhead). Seguramente entraste y te topaste con miles de módulos que cualquiera a la primera ve eso y solo dice.</description>
     </item>
     

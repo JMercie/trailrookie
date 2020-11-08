@@ -33,4 +33,4 @@ Este año, la Dreamforce será virtual(Dreamforce to you) por la pandemia entre 
 Si en este punto, te emocionaste tanto como nosotros, [te dejamos videos sobre dreamforce anteriores.](https://www.youtube.com/results?search_query=dreamforce)  
 **¿Ya estás registrado?**
 
-### Nos vemos en la dreamforce.
+### Nos vemos en la dreamforce! 🙌

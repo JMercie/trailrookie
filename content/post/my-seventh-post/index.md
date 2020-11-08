@@ -17,7 +17,7 @@ Todo esto converge en un evento, la Dreamforce, que se realiza todos los años d
 A excepción de 2020, que será virtual, el evento se organiza durante 4 días en la ciudad de San Francisco, y, si bien tiene charlas de tecnología y sobre casos de éxito con salesforce, también tiene expositores dando charlas sobre los más diversos temas de tecnología, emprendedurismo y cuestiones sociales.
 En años anteriores estuvieron, entre otros, Megan Rapinoe,David Beckham, Tim Cook,Emilia Clarke,Al Gore,Michelle Obama, Hillary Clinton,Ashton Kutcher y nada más y nada menos, que Barack Obama.
 
-![Barack Obama y Marc Benioff](\content\post\my-seventh-post\first.png)
+![Barack Obama y Marc Benioff](first.png)
 
 Además hay stands de exposición donde están la mayoría, si no todos, los partners de Salesforce alrededor del mundo mostrando sus casos de éxito e innovación con Salesforce.
 

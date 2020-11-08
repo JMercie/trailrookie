@@ -1,7 +1,7 @@
 ---
 title: "Dreamforce: La fiesta (virtual) de Salesforce"
 draft: false
-date: 2020-11-09T11:43:52-03:00
+date: 2020-11-08T11:43:52-03:00
 tags: ["post", "general"]
 type: "post"
 image: "cover.jpg"

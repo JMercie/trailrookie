@@ -1,246 +1,105 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Trailrookie Blog</title>
-        <link>https://trailrookie.com/</link>
-        <description>Recent content on Trailrookie Blog</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Wed, 28 Oct 2020 11:43:52 -0300</lastBuildDate><atom:link href="https://trailrookie.com/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Salesforce desde RRHH - Entrevista a Florencia Carballeria</title>
-        <link>https://trailrookie.com/p/salesforce-desde-rrhh-entrevista-a-florencia-carballeria/</link>
-        <pubDate>Wed, 28 Oct 2020 11:43:52 -0300</pubDate>
-        
-        <guid>https://trailrookie.com/p/salesforce-desde-rrhh-entrevista-a-florencia-carballeria/</guid>
-        <description>&lt;img src="https://trailrookie.com/p/salesforce-desde-rrhh-entrevista-a-florencia-carballeria/cover.png" alt="Featured image of post Salesforce desde RRHH - Entrevista a Florencia Carballeria" /&gt;&lt;p&gt;Tuvimos la oportunidad de entrevistar a Florencia Carballeira, Licenciada en relaciones del trabajo (&lt;strong&gt;UBA&lt;/strong&gt;) y Human Resources en Xappia hace más de 3 años. Ella se encargó de reclutar a la mayoría de los empleados de Xappia y nos interesó hacerle algunas preguntas ya que es una de las empresas que dan primeras oportunidades en sistemas y más puntualmente en salesforce.&lt;/p&gt;
-&lt;p&gt;Cuando nos entrevistarnos con ella hace mucho tiempo, sorprendió lo mucho que conocía de la herramienta y eso es porque, en palabras de ella:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“siempre me gusto aprender la parte técnica de lo que estoy buscando, siempre pensé que no sirve entrevistar a una persona si no sabes que está diciendo. La persona te puede decir que hizo un trigger para resolver un problema, pero no sirve que me lo diga si yo no sé lo que es un trigger”.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Si te llega el cv de persona sin experiencia en salesforce o incluso sin experiencia en sistemas. ¿Lo tenes en cuenta? ¿Que necesita un perfil para que llame tu atención y que lo consideres para una primera entrevista? ¿Qué características tiene que tener esa persona para que avance en el proceso y eventualmente se incorpore o no a la empresa?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Hay varias cuestiones:&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Para mi tiene más peso la actitud y capacidad de aprendizaje de la persona que un CV llenos de cursos sueltos, tecnologías y experiencias. Si viene una persona que estudia en la facultad pero en paralelo no hace otra cosa, un proyecto, un curso, un github o lo que sea que demuestre que es autodidacta, se queda corto. En xappia vamos a necesitar que tengas la capacidad de autocapacitarse y la actitud para aprender para enfrentar los desafíos  más allá del respaldo técnico que brinda el equipo.&lt;/p&gt;
-&lt;p&gt;También es necesario que sepa mínimamente hacia dónde quiere ir, porque si una persona quiere programar mobile, no creo que Xappia sea el lugar. Tal vez no lo sepa, pero es importante que sepa cuales son sus intereses y que le da curiosidad, que lo motiva.&lt;/p&gt;
-&lt;p&gt;Obviamente hay cosas básicas que alguien tiene que saber, pero nosotros tenemos en el proceso de selección un ejercicio que funciona como “prueba técnica” y ayuda a ver cómo se desenvuelve la persona, si puede aprender por su cuenta sobre algo que no conoce y si puede hacerle frente a un requerimiento y a ciertas cosas básicas.&lt;/p&gt;
-&lt;p&gt;Para mi el estudio es importante también, te da respaldo académico sobre cosas que van más allá de la tecnología en sí, “una visión más macro” pero no es netamente excluyente. Los cursos y las academias de coding también ayudan, pero no alcanza si la persona no quiere seguir progresando en su conocimiento.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Y qué pasa si la persona sabe de salesforce o estuvo en trailhead sumando badges por ejemplo? ¿Tiene más valor sobre otros perfiles?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;No alcanza con trailhead si no estás guiado, si tu objetivo es sumar badges y ser ranger, no me llama la atención. Es necesario tener una ruta armada sobre lo que interese o sobre algún perfil. Pero no alcanza solo con eso, también se necesita cierta base técnica en aspectos específicos de la materia, si es programación por ej, paradigmas, POO, etc. Si es funcional, saber sobre &lt;em&gt;“DER”&lt;/em&gt; y demás cosas que no se ven trailhead.&lt;/p&gt;
-&lt;p&gt;Y lo mismo con una certificación, por sí sola no te da validez, podes tener conocimientos pero si nunca lo aplicaste en un proyecto real, no significa que seas un experto en el tema.
-Certificar por certificar tampoco sirve, si nunca trabajaste en salesforce por mas que tengas 10 certificaciones no significa que vayas a ganar más salarialmente ni que seas un ingreso seguro.&lt;/p&gt;
-&lt;p&gt;En otras palabras, no es necesario que sepas de salesforce para que te tenga en cuenta.
-No me gusta descartar por descartar, me gusta tener entrevistas para conocer más a la gente, porque no sabes cuando puedes conocer alguien que después la rompa.
-Sería raro que entreviste a alguien y no le de el ejercicio evaluatorio para que lo haga en casa. Capaz después no lo hace o lo hace mal,y en ese caso siempre hacemos algunas correcciones y te lo devolvemos para que lo corrijas, pero trato de evaluarlos a todos. También porque es importante ver cómo reacciona la persona ante la corrección que me indique solicitarle el equipo, ya que en nuestro lugar podría estar un cliente.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Qué le dirías a las personas que ven un aviso de empleo que piden muchísimos requisitos y por ahí la persona no cumple algunos y no se quiere postular por eso?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Hay una realidad, si no cumplis muchos requerimientos, no les recomendaría aplicar, ya que es un trabajo tmb para el reclutador ver todos los perfiles y después dar un feedback a todos aquellos que no cumplen, el tiempo vale para ambos, tanto para el candidato, como para el que está del otro lado.&lt;br&gt;
-Pero si no tienes el nivel de inglés o que no tienes título universitario o te falta un año de experiencia, aplica igual. Hay que animarse. Como mucho te dirán que no.&lt;/p&gt;
-&lt;p&gt;También hay que ser realista, si nunca hiciste ni siquiera  un curso de desarrollo y queres iniciar en el área, no te postules sin haber aprendido nada antes, es importante conocerse a uno mismo, buscar a donde quiere apuntar y prepararse para eso.&lt;/p&gt;
-&lt;p&gt;Para la gente que busca un primer trabajo es complejo, buscar trabajo es un trabajo adicional también. Vemos en linkedin cada vez más experiencias malas en procesos, pero hay que ser perseverante y la oportunidad llegará. Si uno no recibe un feedback es bueno pedirlo, a veces pasa que la persona se queda con la duda, que dice &lt;em&gt;“nunca me avisaron que paso”&lt;/em&gt; bueno pero preguntaste? ¿Pediste un feedback? En lo personal,  no me molesta para nada si alguien me escribe pidiendo feedback (claro que previamente siempre busco q todo el team de un feedback del proceso, pero puede pasar q en algun momento te olvidaste de 1, somos humanos, si eso pasa, y el candidato me pregunta tmb habla bien de esa persona ya que denota interes en el proceso. Así mismo es bueno, si por algún motivo decidimos desistir de un proceso de selección avisarle a la persona que llevó a cabo el proceso, el respeto es muy importante de ambas partes.&lt;/p&gt;
-&lt;p&gt;También hay que tener en cuenta lo que a uno le gusta, tal vez una persona tiene experiencia en desarrollo, pero quiere cambiar y ser consultor o quiere hacer alguna tecnología en particular y es importante que el reclutador tenga en cuenta eso a la hora de ofrecer una posición donde la persona esté motivada y podamos ayudar a potenciarlo en esa área.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;¿Qué le recomendarías, desde tu lado, a una persona que quiere arrancar en salesforce y quiere hacer que su perfil sea más atractivo para poder entrar a un partner de salesforce?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Primero el nivel de inglés, es necesario tener un nivel de lectocomprensión, ya que la mayoría de la documentación está en ese idioma.&lt;/p&gt;
-&lt;p&gt;Después entrar a trailhead y ver si te gusta la plataforma, si te proyectas ahí.&lt;/p&gt;
-&lt;p&gt;Después de saber que camino quiero tomar y que necesito, si quiero ser consultor necesito saber modelos de datos, cosas de relevamiento, metodologías ágiles, que es una planing, una daily, una retro,etc.
-SI quiero ser developer, que es la programación orientada a objetos, que hay más allá de APEX, etc.
-Ponerlo en práctica es super importante, aunque sea en algo personal.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;¿Quieres decir algunas palabras finales?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Que la gente que está buscando un trabajo nuevo no baje los brazos nunca y sea positivo, es una cuestión de perseverancia. Que nunca deje de contestar mails ya que tienen que tener en cuenta que del otro lado hay un reclutador haciendo su trabajo y que busque feedback de cada proceso.
-Antes de la entrevista o el inicio de cada proceso, que investiguen sobre la empresa y que sea lo más natural posible, las entrevistas deberían ser descontracturadas, no vale la pena tener todo ensayado.&lt;/p&gt;
-&lt;p&gt;Y ojalá los procesos de selección cambien para que no se intente encajar a la persona en una descripción de puesto si no que la persona pueda hacer algo que le motiva y hacer un match entre expectativas de empresa y persona.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Entrevista con Salesforce QA Lead Pablo Acosta</title>
-        <link>https://trailrookie.com/p/entrevista-con-salesforce-qa-lead-pablo-acosta/</link>
-        <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://trailrookie.com/p/entrevista-con-salesforce-qa-lead-pablo-acosta/</guid>
-        <description>&lt;img src="https://trailrookie.com/p/entrevista-con-salesforce-qa-lead-pablo-acosta/cover.jpg" alt="Featured image of post Entrevista con Salesforce QA Lead Pablo Acosta" /&gt;&lt;p&gt;El viernes tuvimos la oportunidad de entrevistar a Pablo Acosta, Salesforce QA Lead en Xappia. Con solo 10 meses en la empresa y poco mas de un año en el área de QA logró convertirse en un referente para aquellas personas que recién comienzan en el área o quieren comenzar.
-Curiosamente él no estudia sistemas, más allá de cursos de QA en el GCBA, si no que es estudiante de Medicina y busca especializarse en Informática de la Salud. Demostrando que uno puede mezclar sus pasiones para trabajar.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;¿Por qué elegiste QA?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Tuve la oportunidad de hacer varios cursos de especialización en el GCBA y el que más&lt;br&gt;
-me gustó fue el de QA Automation y decidí dedicarme a eso por un tiempo y después se&lt;br&gt;
-me dio la oportunidad de ser QA salesforce en Xappia.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Como desarrollador y/o consultor trabajamos a la par con el área de QA, pero cómo definirías tu rol?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Uno piensa que el QA está para romper cosas, y en un primer momento es verdad, debemos buscar la falla en lo desarrollado. pero va mucho más allá, no solo rompemos, debemos saber porqué y
-para que se desarrolló lo que se desarrolló y fijarnos si realmente cubre la necesidad del cliente. Porque tal vez podemos ayudar a establecer si al cliente le servirá o no lo que se hizo
-más allá de que realmente cubra su propósito.&lt;br&gt;
-En mi experiencia, muchas historias de usuario se redefinen muchas veces cuando llegan a QA ya que nosotros generamos nuevas preguntas en los developers o administradores, entonces eso
-dispara nuevas preguntas para el cliente y eso implica que una funcionalidad sea más sencilla al final del día o más compleja. Entonces al final del día no solo sos un QA si no un analista.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;En Argentina hay muchas empresas invirtiendo en Salesforce, que le dirias a la gente que quieras empezar en esta plataforma y les gustaría elegir un rol de QA?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;La mejor manera es entender que se está haciendo, no alcanza con saber cómo testear, se necesita entender la plataforma y que se pueda hacer en ella. Aprender en trailhead es fundamental,  ganando confianza para poder manejarse en la plataforma y así poder no solo probar funcionalidades sino también poder encontrar el error en la configuración.
-Otra ventaja es que hay una comunidad muy grande, todo los errores que te pasaron a vos, le paso a alguien antes.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Salesforce tiene muchos roles, y QA es el que más depende de todos, ¿como hace un QA para manejar esa dependencia? como hacer para encontrar el error y no caer en la tentación de decirle al dev o al admin como corregirlo?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Hay dos puntos claves ahi, primero el tema de las habilidades blandas, es super importante tener buenas habilidades comunicativas, porque si no siempre terminaremos siendo aquel antagonista que va a retrasar un proyecto o que va a hacerte borrar todo y volver a empezar.
-Y tal vez es verdad, pero yo no estoy buscando que vos tengas errores, si no estoy buscando que se satisfagan las habilidades del cliente.
-Es super necesario tener el valor suficiente para decir las cosas de forma clara y sin temor y trabajar en un diálogo abierto donde todos puedan opinar del trabajo de uno para poder mejorarlo.&lt;/p&gt;
-&lt;p&gt;Como QA, no solo se trata de tirarle un bug al equipo que desarrolló e irme corriendo, si no debatir entre todos que representa ese error y como se lo arregla. De esta manera se gana experiencia y confianza en el equipo y también ayuda a mejorar el proceso de QA al retroalimentarse.
-Otro pilar es el tema del PENSAMIENTO LATERAL, es importante tenerlo muy desarrollado. Me pueden dar una funcionalidad y yo probarla en base a ciertos pasos predefinidos o puedo hacerte mil preguntas para entender porque se hizo y para que se hizo algo.
-Un ejemplo: te doy una lapicera y te digo que la testees, probablemente trates de escribir, pero después te digo que en realidad esa lapicera es para batir huevos, no es para eso pero cumple la función. No es necesario tener una gran experiencia, solo saber razonar de diferentes maneras y cuestionar lo que nos rodea. Sin desprecio de la experiencia laboral, esto se consigue con el tiempo pero el talento y una capacidad de razonamiento fuera de la caja es muy difícil de desarrollar con el tiempo, por eso no creo que el talento joven se deba bloquear solo por el hecho de no tener experiencia.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Si mañana viene un chico que no sabe nada de QA ni de salesforce y te dice que quiere entrar en tu equipo, ¿vos qué le dirías que aprenda?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Dentro de QA me gustaría que aprenda sobre  el &lt;strong&gt;ISTQB&lt;/strong&gt;,que es la normativa de qa,  el examen vale mucho dinero así que no me interesa que lo tengan pero sí que su razonamiento y su forma de trabajo se base  en esas pautas&lt;/p&gt;
-&lt;p&gt;Después es necesario que tenga ganas de aprender a pesar de las circunstancias. hay gente que hace un año no estudia nada y se queda de brazos cruzados para no mejorar su situación. No se tiene que quedar quieto y demostrar que quiere aprender cosas nuevas.&lt;/p&gt;
-&lt;p&gt;Y si es sobre salesforce, que aprenda en trailhead o vea videos sobre la plataforma, incluso antes de ser contratado, no es necesario ser un experto pero si una base desde donde comenzar. Saber que es un crm, identificar los roles, entender las posibilidades.&lt;/p&gt;
-&lt;p&gt;Yo estuve en el lugar de alguien sin experiencia, y me rechazaron varias veces, pero siempre tenemos que buscar una retroalimentación que nos permita saber cómo mejorar mi perfil laboral para poder entrar al rubro.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Algunas últimas palabras para el cierre?&lt;/strong&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Es un consejo para todos los que entren a un equipo, es importante que cuando uno llega a un lugar nuevo no solo piense en lo que van a ofrecer desde lo técnico o incluso lo que va a aprender, sino entender cómo va a aportar al ambiente y la comunicación. Somos todos seres humanos y es necesario entender al otro no sólo como un compañero donde cada uno hace su laburo si no poder hablar cosas personales o ayudar a alguien.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
-        </item>
-        <item>
-        <title>Salesforce: Datos, gráficos e historias - Tableau y Einstein Analytics</title>
-        <link>https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/</link>
-        <pubDate>Mon, 12 Oct 2020 20:01:28 -0300</pubDate>
-        
-        <guid>https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/</guid>
-        <description>&lt;img src="https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/fourth_cover.png" alt="Featured image of post Salesforce: Datos, gráficos e historias - Tableau y Einstein Analytics" /&gt;&lt;p&gt;En junio del 2019, salesforce compró definitivamente Tableau, el líder en software de Business Intelligence (BI), en la adquisición más grande de la historia de la empresa líder en crm, pero recientemente pudimos ver los cambios que se desencadenaron por esta adquisición.
-Esta semana decidimos hablar de BI y Salesforce.&lt;/p&gt;
-&lt;p&gt;Primero lo primero, que es BI?
-2020 ha sido el año donde se ha confirmado lo necesario de medir y recabar datos de todo lo que hacemos para una mejor toma de decisiones para entender las situaciones actuales y futuras.
-En ese sentido los software de Business intelligence son imprescindibles para que las organizaciones puedan explotar todo lo que recogen a partir de las interacciones con clientes, proveedores y demás actores de su vida cotidiana.
-Saber usar alguno, es una habilidad cada vez más requerida, no sólo en puestos de sistemas sino también en puestos relacionados a lo comercial y el negocio. Porque siendo sincero, todos trabajamos con información y lo mejor es tenerla organizada y explotarla al máximo. Pasar del excel al BI es un paso difícil pero también necesario.&lt;/p&gt;
-&lt;p&gt;Cuando hemos dicho que salesforce tiene productos para todo lo que te puedas imaginar y más, no mentimos. De hecho no solo tiene un producto para BI si no que tiene una suite entera&lt;/p&gt;
-&lt;p&gt;Antes de la adquisición de Tableau, el módulo BI insignia de Salesforce era Einstein Analytics. Esta semana se anunció que cambia su nombre a Tableau CRM para ser la alternativa BI para el usuario CRM y poder trabajar junto a la potencia de Tableau.&lt;/p&gt;
-&lt;p&gt;Analytics te permite hacer gráficos rápidamente tomando los datos de salesforce nativamente o 3rd party sources. Tiene además una herramienta muy potente llamada Einstein Discovery, enfocada en machine learning la cual te permite generar insights y predicciones automáticamente con unos pocos clicks y parametrizaciones.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-		&lt;a href=&#34;https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/image1.png&#34; data-size=&#34;1352x654&#34;&gt;
-			&lt;img srcset=&#34;https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/image1_hu0cd301340e061548354defa06cf7964a_125972_480x0_resize_box_2.png 480w, https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/image1_hu0cd301340e061548354defa06cf7964a_125972_1024x0_resize_box_2.png 1024w&#34;
-				src=&#34;https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/image1.png&#34; width=&#34;1352&#34; height=&#34;654&#34; loading=&#34;lazy&#34;
-				alt=&#34;Dashboard generado automáticamente por einstein discovery a partir de datos de oportunidades que había en salesforce.&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;Dashboard generado automáticamente por einstein discovery a partir de datos de oportunidades que había en salesforce.&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Queres aprender mas de Einstein Analytics: &lt;a class=&#34;link&#34; href=&#34;https://trailhead.salesforce.com/es-MX/users/ea-trails/trailmixes/learn-einstein-analytics-plus&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Mira esto&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Ahora hablemos de Tableau&lt;/p&gt;
-&lt;p&gt;No miento al decir que Tableau es una herramientas líderes del mercado de BI, es usado en muchísimas empresas por su robustez, facilidad y amplia comunidad. En mi experiencia personal, Tableau es tan fácil de usar que cualquier usuario incluso alguien que no esté formado en sistemas, puede hacer gráficos complejos que respondan las preguntas que tenga.&lt;/p&gt;
-&lt;p&gt;Tableau te permite integrar datos de todos lados, tiene múltiples conectores y es muy útil para integrar todos nuestros softwares y herramientas y además asegurar la gobernabilidad y disponibilidad de los datos a toda la organización.&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-		&lt;a href=&#34;https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/image.png&#34; data-size=&#34;968x671&#34;&gt;
-			&lt;img srcset=&#34;https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/image_hu771cd149fcbbbd8c0ab8b0a7acdd72f9_191393_480x0_resize_box_2.png 480w, https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/image_hu771cd149fcbbbd8c0ab8b0a7acdd72f9_191393_1024x0_resize_box_2.png 1024w&#34;
-				src=&#34;https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/image.png&#34; width=&#34;968&#34; height=&#34;671&#34; loading=&#34;lazy&#34;
-				alt=&#34;tabla generada a partir de data recolectada desde múltiples conectores.&#34;&gt;
-		&lt;/a&gt;
-		
-		&lt;figcaption&gt;tabla generada a partir de data recolectada desde múltiples conectores.&lt;/figcaption&gt;
-		
-	&lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;Queres aprender mas sobre Tableau? &lt;a class=&#34;link&#34; href=&#34;https://www.tableau.com/learn/training/20203&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Mira estos videos&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Certificate! - ¿Cómo y para que?</title>
-        <link>https://trailrookie.com/p/certificate-c%C3%B3mo-y-para-que/</link>
-        <pubDate>Mon, 12 Oct 2020 19:52:39 -0300</pubDate>
-        
-        <guid>https://trailrookie.com/p/certificate-c%C3%B3mo-y-para-que/</guid>
-        <description>&lt;img src="https://trailrookie.com/p/certificate-c%C3%B3mo-y-para-que/thirdpost_cover.png" alt="Featured image of post Certificate! - ¿Cómo y para que?" /&gt;&lt;p&gt;Hemos hablado mucho de trailhead en nuestros primeros artículos, y la verdad es porque es una plataforma grandiosa para aprender y también con su sistema de puntos y medallas, una excelente manera de demostrar tus conocimientos.
-¿Ahora bien,  hay algo más allá de esto? ¿ Algo más tangible o de más peso? Pues sí, existe y es algo que apasiona a muchos dentro de todo este mundo de Salesforce y también reconocido por muchísimas empresas: El programa de certificaciones.&lt;/p&gt;
-&lt;p&gt;Las certificaciones son el camino elegido por las personas que ya aprendieron bastante en trailhead y quieren más desafíos para seguir demostrando sus conocimientos.&lt;/p&gt;
-&lt;p&gt;Los exámenes de certificación suelen ser exámenes multiple choice de un mínimo de 60 preguntas en una hora y media de tiempo.&lt;/p&gt;
-&lt;p&gt;¿A qué certificaciones debería apuntar?
-Pues todo depende de tus gustos, todas te sumarán muchísimo en tu carrera pero creemos que deberías priorizar las que se relacionan a tus tareas y gustos actuales o tus metas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Desarrollador Salesforce&lt;/strong&gt;: Este perfil tiene dos certificaciones que validan skills generales, Platform developer I, Platform Developer II y Platform app builder. Además cuentas con algunas certificaciones adicionales más específicas como marketing cloud developer,B2C commerce Developer, Javascript Developer I.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nuestra recomendación es&lt;/strong&gt; que arranques por Platform Developer 1 y de ahí seguir por Platform App builder  y/o Javascript Developer 1. ¿Por qué? Creemos que al estudiar, construir proyectos, apps e investigar para aprobar las mismas obtendrás las bases y mucho más de lo que necesitas para desarrollarte y ser reconocido como un desarrollador experimentado.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Administrador Salesforce&lt;/strong&gt;: Al igual que el desarrollador, el administrador tiene dos certificaciones generales, Administrator y Advanced Administrator y también es requerimiento la primera para rendir la segunda. Y también tiene certificaciones adicionales como Marketing Cloud Administrator, Platform App Builder y CPQ Specialist.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Nuestra recomendación es&lt;/strong&gt; que primero intentes conseguir la de Certified Administrator ya que este es requisito para muchas otras que quizás quieras conseguir, además que esta pondrá a prueba y te permitirá demostrar que manejas bastante bien los conceptos básicos y avanzados de la plataforma.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Consultor Salesforce&lt;/strong&gt;: El perfil del consultor tiene diferentes certificaciones posibles, una por producto de salesforce que lo validan como un consultor en cierto producto. Es así que el módulo de Sales tiene su propia certificación al igual que service o community. Más adelante haremos un post explicando cada producto de salesforce. Para rendir alguna de estas generalmente es necesario contar con la certificación de salesforce administrator.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Salesforce Marketer&lt;/strong&gt;: Al igual que el consultor, el marketer tiene una certificación por producto con la salvedad que para marketing cloud tiene 3 certificaciones, developer, administrator y consultant.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Salesforce Architect&lt;/strong&gt;: Acá la cosa se pone más complicada, Para ser un arquitecto salesforce es necesario reunir ciertos requerimientos. Hay dos caminos posibles como pueden ver en la imagen. Ser un arquitecto de aplicación o ser un arquitecto de sistemas, juntar las certificaciones necesarias para cada ruta, automáticamente te concede ser un arquitecto de aplicación o de sistema según corresponda. Una vez que se consiguen los dos objetivos, se puede rendir un examen para ser Technical architect, que básicamente es el grado más alto de certificación que se puede conseguir y cuyo examen, segun dicen, no es como ningún otro.&lt;/p&gt;
-&lt;p&gt;De más está decir, que tener un perfil determinado no significa que tengas que rendir solo las certificaciones de este. Salesforce te permite expandir tu carrera hasta donde quieras, te recomendamos  es que apuntes tu camino hacia donde mas te guste o te de curiosidad.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://trailhead.salesforce.com/credentials/architectoverview&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Aprende mas sobre certificaciones aca&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>¿Qué carrera de Salesforce es la ideal para mi perfil? Descubre tu carrera ideal en la nube.</title>
-        <link>https://trailrookie.com/p/qu%C3%A9-carrera-de-salesforce-es-la-ideal-para-mi-perfil-descubre-tu-carrera-ideal-en-la-nube./</link>
-        <pubDate>Mon, 12 Oct 2020 19:15:52 -0300</pubDate>
-        
-        <guid>https://trailrookie.com/p/qu%C3%A9-carrera-de-salesforce-es-la-ideal-para-mi-perfil-descubre-tu-carrera-ideal-en-la-nube./</guid>
-        <description>&lt;img src="https://trailrookie.com/p/qu%C3%A9-carrera-de-salesforce-es-la-ideal-para-mi-perfil-descubre-tu-carrera-ideal-en-la-nube./secondpost_cover.jpg" alt="Featured image of post ¿Qué carrera de Salesforce es la ideal para mi perfil? Descubre tu carrera ideal en la nube." /&gt;&lt;p&gt;En nuestro primer artículo te mencionamos algunos de los productos de salesforce y su plataforma de aprendizaje (Trailhead). Seguramente entraste y te topaste con miles de módulos que cualquiera a la primera ve eso y solo dice. “Y…. ahora por donde?”&lt;/p&gt;
-&lt;p&gt;Bueno justamente hoy, no solo respondemos eso si no también te damos una introducción a las carreras que puedes seguir dentro de Salesforce para potenciarte!&lt;br&gt;
-Acá te presentamos las diferentes opciones:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Desarrollador Salesforce/Salesforce developer&lt;/strong&gt;:&lt;br&gt;
-¿Te gusta armar aplicaciones de forma rápida y sencilla? ¿Te preocupa la seguridad de tu aplicación y el performance? Esta carrera es para vos. El developer se encarga de armar aplicaciones full stack para la plataforma que responden a las necesidades complejas del negocio que no pueden ser satisfechas con la herramientas estándar de Salesforce.
-Armamos un &lt;a class=&#34;link&#34; href=&#34;https://trailhead.salesforce.com/users/nmercie/trailmixes/developer-trail-rookie&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;trailmix introductorio para guiarte en tus primeros pasos&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Administrador Salesforce/Salesforce Administrator&lt;/strong&gt;:
-El administrador salesforce se encarga de configurar y dar soporte a la herramienta para poder dar respuesta a los procesos de negocio de las organizaciones. Algunas de sus funciones son crear reportes, automatizar procesos, modificar vistas de usuario y capacitar a los mismos en el uso de la plataforma.
-Un administrador salesforce utiliza todas las opciones de configuración de la plataforma(automatizaciones, parametrizaciones de seguridad, creación de reportes y validaciones) para hacer más eficiente el trabajo de los usuarios.&lt;br&gt;
-En este &lt;a class=&#34;link&#34; href=&#34;https://trailhead.salesforce.com/users/nmercie/trailmixes/administrator-rookie&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;trailmix introductorio te guiamos un poco en esta carrera&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Salesforce Consultant/Consultor Salesforce&lt;/strong&gt;:&lt;br&gt;
-El consultor es especialista en uno o más módulos de salesforce, los conocen a la perfección(muchos están certificados en el uso de algún módulo) y se encargan de traducir requerimientos complejos de negocio a soluciones técnicas simples. Más adelante haremos un artículo explicando los diferentes módulos de salesforce en los cuales te puedes especializar.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Salesforce QA&lt;/strong&gt;:
-Si bien no es una “carrera oficial” de salesforce, cada vez más empresas están contratando QA especializados y así no dejar ese aspecto como parte del trabajo de los developers y los administradores. Los QA se encargan de testear las diferentes funcionalidades que se desarrollaron. Pueden hacer testeos manuales o automatizados.
-Mi compañero Pablo Acosta hizo un gran trailmix para este perfil que &lt;a class=&#34;link&#34; href=&#34;https://trailhead.salesforce.com/es-MX/users/pacosta5/trailmixes/qa-guide-prototype&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;pueden ver acá&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Marketing Consultant&lt;/strong&gt;:
-Los consultores de marketing se especializan en cualquiera de las diferentes plataformas de automatización de marketing que tiene salesforce(ejemplo, marketing cloud o Pardot) y se encargan de desarrollar experiencias y estrategias para que las empresas puedan atraer más clientes.
-Aquí hay un trailmix para &lt;a class=&#34;link&#34; href=&#34;https://trailhead.salesforce.com/es-MX/users/strailhead/trailmixes/build-your-marketing-career-on-salesforce&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;aprender mas&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Salesforce Sales/Presales&lt;/strong&gt;:&lt;br&gt;
-Se encargan de ayudar a las empresas a triunfar ofreciéndoles resolver problemas o mejorar su negocio a través de salesforce. Son personas pacientes y comunicativas, les gusta construir relaciones con las personas y ser expertos en conectar clientes con compañía.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Salesforce architect/Arquitecto Salesforce&lt;/strong&gt;:
-Son las personas que más saben de salesforce y con mayor expertise para diseñar soluciones robustas y escalables en el tiempo. Son fuente de consulta para el resto de los perfiles ya que su experiencia les permite ver la  “Big Picture” de cada implementación de salesforce.
-Hoy te mostraremos &lt;a class=&#34;link&#34; href=&#34;https://trailhead.salesforce.com/credentials/architectoverview&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;la ruta o pirámide de arquitecto&lt;/a&gt;.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;¿Cuál carrera se ajusta más a tu perfil?&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Tantas opciones. Por donde empiezo?</title>
-        <link>https://trailrookie.com/p/tantas-opciones.-por-donde-empiezo/</link>
-        <pubDate>Mon, 12 Oct 2020 16:14:39 -0300</pubDate>
-        
-        <guid>https://trailrookie.com/p/tantas-opciones.-por-donde-empiezo/</guid>
-        <description>&lt;img src="https://trailrookie.com/p/tantas-opciones.-por-donde-empiezo/firstpost_cover.png" alt="Featured image of post Tantas opciones. Por donde empiezo?" /&gt;&lt;p&gt;Hoy en día, no solo en el país, si no en el mundo, es una tendencia creciente que más y más personas busquen iniciar una carrera en tecnología, no solo por pasión, sino también por ser un sector mejor pagado y más flexible que algunos otros.&lt;/p&gt;
-&lt;p&gt;Aun con todos los beneficios y bondades del rubro, es una tarea difícil no solo elegir por dónde empezar si no también, con qué empezar. Quisiera ofrecer un camino más a aquellos que buscan justo eso, el camino por el cual yo inicié (sin saber de él antes) y hoy es mi vocación: &lt;strong&gt;Salesforce&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;¿Qué es Salesforce? un CRM (customer relationship management), es decir, plataforma para gestionar la relación con clientes, pero esta empresa lo lleva a otro nivel, creando un ecosistema de aplicaciones donde puedes hacer de todo e incluye a todos.&lt;/p&gt;
-&lt;p&gt;¿Por qué elegirlo para arrancar o potenciar tu carrera en tecnología? Hay muchas razones y quiero por ahora decir unas cuantas:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Es fácil de aprender: Existe una plataforma abierta llamada Trailhead que te permite aprender sobre todo el ecosistema Salesforce, de forma interactiva y desafiante de acuerdo a tu nivel. Tiene un sistema de rangos e insignias que te ayudan a demostrar lo aprendido.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;No es solo para desarrolladores: Si, tal cual lo digo. De hecho la plataforma te incentiva a usar sus herramientas pre-existentes para automatizar tareas, crear aplicaciones, diseños, etc. todo sin escribir una línea de código.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hay productos para todos los gustos: ¿Te gusta el BI, ML, Data Science? Los módulos de Einstein Analytics son para vos. ¿Te gusta crear diseños y vistas impresionantes? Lightning Component Framework es para vos. ¿Te gusta el marketing? Marketing Cloud y Pardot tienen todas las herramientas que necesitas. ¿Te gusta hacer integraciones y APIs robustas? Apex (el lenguaje de programación de Salesforce) te permite realizarlas, con toda la seguridad que esperas y necesitas de forma rápida.&lt;/p&gt;
-&lt;p&gt;Mi recomendación hoy es que si algo de esto te llamó la atención, comiences por aquí: &lt;a href=&#34;https://trailhead.salesforce.com/en/content/learn/trails/learn_salesforce_with_trailhead&#34;&gt;https://trailhead.salesforce.com/en/content/learn/trails/learn_salesforce_with_trailhead&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Hay mucho más para contar, siempre hay más por saber y si les interesa, cada semana soltaremos tips y contenido hablando de Salesforce, primeros pasos y aplicaciones prácticas.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
+  <channel>
+    <title>Trailrookie Blog</title>
+    <link>https://trailrookie.com/</link>
+    <description>Recent content on Trailrookie Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2020 11:43:52 -0300</lastBuildDate><atom:link href="https://trailrookie.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dreamforce: La fiesta (virtual) de Salesforce</title>
+      <link>https://trailrookie.com/p/dreamforce-la-fiesta-virtual-de-salesforce/</link>
+      <pubDate>Wed, 28 Oct 2020 11:43:52 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/dreamforce-la-fiesta-virtual-de-salesforce/</guid>
+      <description>Somos unos fanáticos de salesforce, eso ya lo saben, pero no es solo por la tecnología, las herramientas y sus posibilidades, sino también por la cultura que hay a su alrededor.</description>
+    </item>
+    
+    <item>
+      <title>Salesforce desde RRHH - Entrevista a Florencia Carballeria</title>
+      <link>https://trailrookie.com/p/salesforce-desde-rrhh-entrevista-a-florencia-carballeria/</link>
+      <pubDate>Wed, 28 Oct 2020 11:43:52 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/salesforce-desde-rrhh-entrevista-a-florencia-carballeria/</guid>
+      <description>Tuvimos la oportunidad de entrevistar a Florencia Carballeira, Licenciada en relaciones del trabajo (UBA) y Human Resources en Xappia hace más de 3 años. Ella se encargó de reclutar a la mayoría de los empleados de Xappia y nos interesó hacerle algunas preguntas ya que es una de las empresas que dan primeras oportunidades en sistemas y más puntualmente en salesforce.</description>
+    </item>
+    
+    <item>
+      <title>Entrevista con Salesforce QA Lead Pablo Acosta</title>
+      <link>https://trailrookie.com/p/entrevista-con-salesforce-qa-lead-pablo-acosta/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://trailrookie.com/p/entrevista-con-salesforce-qa-lead-pablo-acosta/</guid>
+      <description>El viernes tuvimos la oportunidad de entrevistar a Pablo Acosta, Salesforce QA Lead en Xappia. Con solo 10 meses en la empresa y poco mas de un año en el área de QA logró convertirse en un referente para aquellas personas que recién comienzan en el área o quieren comenzar.</description>
+    </item>
+    
+    <item>
+      <title>Archives</title>
+      <link>https://trailrookie.com/archives/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://trailrookie.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salesforce: Datos, gráficos e historias - Tableau y Einstein Analytics</title>
+      <link>https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/</link>
+      <pubDate>Mon, 12 Oct 2020 20:01:28 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/salesforce-datos-gr%C3%A1ficos-e-historias-tableau-y-einstein-analytics/</guid>
+      <description>En junio del 2019, salesforce compró definitivamente Tableau, el líder en software de Business Intelligence (BI), en la adquisición más grande de la historia de la empresa líder en crm, pero recientemente pudimos ver los cambios que se desencadenaron por esta adquisición.</description>
+    </item>
+    
+    <item>
+      <title>Certificate! - ¿Cómo y para que?</title>
+      <link>https://trailrookie.com/p/certificate-c%C3%B3mo-y-para-que/</link>
+      <pubDate>Mon, 12 Oct 2020 19:52:39 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/certificate-c%C3%B3mo-y-para-que/</guid>
+      <description>Hemos hablado mucho de trailhead en nuestros primeros artículos, y la verdad es porque es una plataforma grandiosa para aprender y también con su sistema de puntos y medallas, una excelente manera de demostrar tus conocimientos.</description>
+    </item>
+    
+    <item>
+      <title>¿Qué carrera de Salesforce es la ideal para mi perfil? Descubre tu carrera ideal en la nube.</title>
+      <link>https://trailrookie.com/p/qu%C3%A9-carrera-de-salesforce-es-la-ideal-para-mi-perfil-descubre-tu-carrera-ideal-en-la-nube./</link>
+      <pubDate>Mon, 12 Oct 2020 19:15:52 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/qu%C3%A9-carrera-de-salesforce-es-la-ideal-para-mi-perfil-descubre-tu-carrera-ideal-en-la-nube./</guid>
+      <description>En nuestro primer artículo te mencionamos algunos de los productos de salesforce y su plataforma de aprendizaje (Trailhead). Seguramente entraste y te topaste con miles de módulos que cualquiera a la primera ve eso y solo dice.</description>
+    </item>
+    
+    <item>
+      <title>Tantas opciones. Por donde empiezo?</title>
+      <link>https://trailrookie.com/p/tantas-opciones.-por-donde-empiezo/</link>
+      <pubDate>Mon, 12 Oct 2020 16:14:39 -0300</pubDate>
+      
+      <guid>https://trailrookie.com/p/tantas-opciones.-por-donde-empiezo/</guid>
+      <description>Hoy en día, no solo en el país, si no en el mundo, es una tendencia creciente que más y más personas busquen iniciar una carrera en tecnología, no solo por pasión, sino también por ser un sector mejor pagado y más flexible que algunos otros.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://trailrookie.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trailrookie.com/about/</guid>
+      <description>Trailrookie es una comunidad abierta para todos, centrada y enfocada en Salesforce y su ecosistema. Nacemos de una charla de after office y un par de cervezas donde el comentario: &amp;ldquo;Notaste que hay 0 contenido de comunidad en español sobre Salesforce?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://trailrookie.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://trailrookie.com/contact/</guid>
+      <description>¿Te gustaría compartir tus ideas aquí?
+¿Nos quieres contactar para sponsorship?
+Darnos tu feedback y tirar buenas malas críticas?
+Te dejamos nuestros contactos aquí:
+📨 contact@trailrookie.</description>
+    </item>
+    
+  </channel>
 </rss>

@@ -4,7 +4,8 @@ draft: false
 date: 2020-11-24T11:43:52-03:00
 tags: ["post", "general", "Heroku", "Javascript"]
 type: "post"
-image: "cover.jpg"
+image: "cover.jpg
+"
 comment: true
 categories: ["Developer"]
 ---
@@ -42,7 +43,7 @@ Yo vengo trabajando durante más de 15 años en la industria del software y tuve
 En mi primer mes me sentía completamente perdido, ya que entre a una empresa totalmente distinta a lo que estaba acostumbrado. Pero la sorpresa fue diferente, la calidad humana de las personas que trabajan ahí pero también la calidad humana de la empresa. Uno puede trabajar en una compañía donde interesa el resultado, tienes un proyecto y solo interesa que se termine el mismo en el tiempo definido, eres un recurso más que vale tantos dólares la hora. En cambio, en Salesforce importa más uno como ser humano, si uno está bien el resultado de lo que uno haga va a estar bien, y si uno está mal el resultado no va a ser óptimo, entonces la PRIORIDAD ES QUE UNO ESTÉ BIEN.
 por ejemplo, durante la pandemia, con todas las consecuencias que tuvo para el trabajo y las personas, Salesforce nos ha invitado mucho a velar y cuidarnos a nosotros mismos. Nos dieron algunos viernes libres para dedicarlo a lo personal y a desestresarnos. Nos permite elegir un día donde no se programan reuniones para poder concentrarse en el trabajo sin distracciones. programas semanales para hacer break, con clases temáticas como por ejemplo kickboxing o meditación o alimentación sana. Hay un montón de espacios, para los que lo quieran utilizar, para trabajar en esa paz mental y evitar preocupaciones personales.
 Como compañía han hecho una labor muy fuerte en mantenernos tranquilos y enfocados, se nota mucho que le importamos como humanos. OHANA puede sonar muy de marketing para mucha gente, pero desde adentro se nota que si de verdad hay mucho interés por el bienestar de los empleados.
-Veo un lugar donde puedo hacer una carrera, donde puedo hacer carrera y donde puedo planificar trabajar durante más de 5 años. Algo muy difícil en el mercado actual de sistemas donde uno cambia de trabajo como cambia de ropa.
+Veo un lugar donde puedo hacer una carrera y donde puedo planificar trabajar durante más de 5 años. Algo muy difícil en el mercado actual de sistemas donde uno cambia de trabajo como cambia de ropa.
 
 Para mí ha sido algo totalmente diferente y la compañía me ha demostrado que hay muchas formas de impactar a la comunidad todavía.
 Es una compañía que entiende lo valiosa que es la comunidad y que hay que potenciar. Los miembros de la comunidad Salesforce tienen mucha pasión por el producto atravesados por el cambio que Salesforce le ha permitido en su vida. Las personas que estaban apasionadas por el producto empiezan a estar apasionadas por lo que hay detrás del producto y ayudan a potenciar la comunidad.

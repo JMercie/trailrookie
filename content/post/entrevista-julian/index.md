@@ -4,8 +4,7 @@ draft: false
 date: 2020-11-24T11:43:52-03:00
 tags: ["post", "general", "Heroku", "Javascript"]
 type: "post"
-image: "cover.jpg
-"
+image: "cover.jpg"
 comment: true
 categories: ["Developer"]
 ---

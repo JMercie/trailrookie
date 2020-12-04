@@ -1,7 +1,7 @@
 ---
 title: "Historia en adquisiciones, Salesforce compra Slack"
 draft: false
-date: "2020-12-04T11:43:52-03:00"
+date: 2020-12-04
 tags: ["post", "general"]
 type: "post"
 image: "cover.jpeg"
